@@ -21,6 +21,8 @@ const Navbar = () => {
         <img src={logo} alt="logo" height={45} />
       </Link>
       <SearchBar />
+
+      
     </Stack>
   );
 };
